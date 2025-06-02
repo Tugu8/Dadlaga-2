@@ -1,0 +1,33 @@
+2025.06.02 11:45:34 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga' for client Visual Studio Code 1.100.1.
+2025.06.02 11:45:36 INFO  no build target found for C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\Person.java. Using fallback presentation compiler.
+2025.06.02 11:45:36 WARN  no build tool detected in workspace 'C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.06.02 11:45:37 WARN  Build server is not auto-connectable.
+2025.06.02 11:45:37 WARN  no build target for: C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\main.java
+2025.06.02 11:45:37 WARN  no build target for: C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\Person.java
+2025.06.02 11:45:38 INFO  no build target found for C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\Person.java. Using fallback presentation compiler.
+2025.06.02 11:45:38 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Documents/programm%20undes/java/java/Dadlaga/Person.java. Output:
+
+2025.06.02 11:45:39 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Documents/programm%20undes/java/java/Dadlaga/main.java. Output:
+
+2025.06.02 11:45:40 INFO  no build target found for C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\Person.java. Using fallback presentation compiler.
+2025.06.02 11:45:52 INFO  no build target found for C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\Person.java. Using fallback presentation compiler.
+2025.06.02 11:45:53 WARN  no build target for: C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\main.java
+2025.06.02 11:45:53 INFO  no build target found for C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\main.java. Using fallback presentation compiler.
+2025.06.02 11:45:53 INFO  no build target found for C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\main.java. Using fallback presentation compiler.
+2025.06.02 11:46:45 WARN  no build target for: C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\Java Inheritance I.java
+2025.06.02 11:46:45 INFO  no build target found for C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\main.java. Using fallback presentation compiler.
+2025.06.02 11:46:45 WARN  Running javac-semanticdb failed for file:///C:/Users/User/OneDrive/Documents/programm%20undes/java/java/Dadlaga/Java%20Inheritance%20I.java. Output:
+
+2025.06.02 11:47:42 WARN  no build target for: C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\main.java
+Jun 02, 2025 11:47:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.06.02 11:47:42 INFO  no build target found for C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\main.java. Using fallback presentation compiler.
+2025.06.02 11:49:34 WARN  no build target for: C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\main.java
+2025.06.02 11:49:34 INFO  no build target found for C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\main.java. Using fallback presentation compiler.
+2025.06.02 11:49:45 INFO  no build target found for C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\Java Inheritance I.java. Using fallback presentation compiler.
+2025.06.02 11:50:05 WARN  no build target for: C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\main.java
+2025.06.02 11:50:06 INFO  no build target found for C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\main.java. Using fallback presentation compiler.
+2025.06.02 11:50:06 INFO  no build target found for C:\Users\User\OneDrive\Documents\programm undes\java\java\Dadlaga\main.java. Using fallback presentation compiler.
+2025.06.02 11:50:10 INFO  Shutting down server
+2025.06.02 11:50:10 INFO  shutting down Metals
+2025.06.02 11:50:10 INFO  Exiting server
